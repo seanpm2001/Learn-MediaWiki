@@ -1,0 +1,3 @@
+<syntaxhighlight lang="python">
+print("Hello, WIkiText")
+</syntaxhighlight>

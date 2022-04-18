@@ -1,0 +1,8 @@
+* Start
+* Each
+* Bullet
+* List
+* Entry
+* With
+* An
+* Asterisk
